@@ -1,5 +1,6 @@
 # Advent of Code
+> Code for challenges answered
 
-Code for challenges answered here:
+Challenges are here:
 
 https://adventofcode.com
